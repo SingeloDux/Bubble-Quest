@@ -1,6 +1,5 @@
 # Bubble Quest
 
-## Introdução
 
 ## Premissa
 
