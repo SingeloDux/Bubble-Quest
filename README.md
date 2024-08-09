@@ -1,6 +1,7 @@
 # Bubble Quest
 
 __Bubble Quest__ é um jogo de texto interativo baseado em escolhas, onde o jogador navega por diferentes bolhas, cada uma representando um universo distinto. O jogador começa com três vidas, e a missão é superar os desafios de cada universo sem deixar que as bolhas estourem. Se cometer três erros críticos, é game over.
+
 ---
 ## Premissa
 
