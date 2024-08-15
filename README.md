@@ -17,7 +17,7 @@ Superar os desafios de cada universo e fazer escolhas estratégicas para evitar 
 1. **Transição de Universos**: A cada vida perdida, o jogador é transportado para um novo universo, com novos desafios a serem superados.
 1. **Sistema de Vidas**: O jogador começa com três vidas. Cada erro crítico estoura a bolha, resultando na perda de uma vida e na transição para outro universo.
 
-## Progressão do Jogo - Objetivos e Temática da Vitória e Derrota
+## Progressão do Jogo
 
 O jogo se desenvolve em ciclos de três fases por cada universo/rota. Se o jogador completar todas as três fases sem perder vidas ou mudar de universo/rota, alcança o final perfeito. Caso perca uma vida, será transportado para o próximo universo/rota e ainda poderá chegar ao final do jogo, desde que não perca todas as três vidas.
 
