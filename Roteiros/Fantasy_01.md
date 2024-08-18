@@ -6,7 +6,7 @@ Quem não adoraria um mundo onde dragões alçam voos majestosos, incubus e sucu
 
 Mas, cuidado! 
 
-As criaturas aqui podem ser um pouco...?
+As criaturas aqui podem ser...claro, você não está aqui para isso!  
 
 [Iniciar a jornada]
 
@@ -22,10 +22,10 @@ Logo à frente, você se depara com duas trilhas divergentes:
 ### Escolha um caminho:
 
 1. **Seguir a trilha das fadas**
-   - **Resultado**: Pequenas luzes piscam à frente, guiando você por um caminho estreito. As fadas prometem ajuda, mas sussurram que o artefato que procura está ligado a um poder muito maior e mais perigoso do que você imagina.
+   - **Resultado**: As luzes cintilantes das fadas guiam você por um caminho estreito e sinuoso. Enquanto você avança, as fadas prometem ajuda, mas sussurram segredos enigmáticos sobre um poderoso objeto escondido na floresta. Elas não explicam exatamente o que é, mas insinuam que sua descoberta pode alterar o destino de todos.
    
 2. **Ir em direção à cabana da bruxa**
-   - **Resultado**: Ao longe, uma trilha de fumaça escura sobe no céu, sinalizando a presença de uma bruxa reclusa. Ela conhece o poder do artefato e sugere que ele pode abrir um portal para uma dimensão onde o tempo corre de forma diferente.
+   - **Resultado**: Você avista uma trilha de fumaça subindo ao longe, levando-o até uma cabana isolada. A bruxa que habita lá, conhecida por seu vasto conhecimento das forças ocultas, menciona a existência de um artefato antigo e perigoso que está enraizado no poder do tempo. Ela o avisa de que mexer com tal poder sem conhecê-lo pode ter consequências imprevisíveis, e sugere que a verdadeira natureza desse objeto está ligada a eventos há muito esquecidos.
 
 ---
 
@@ -49,25 +49,24 @@ As fadas trocam olhares e risadas sutis, como se achassem graça na acusação d
 
 ## Trilha das Fadas - Desafio Mortal
 
-Continuando pela trilha, as fadas o guiam até uma ponte de cipós que parece segura, estendida sobre um abismo escuro. Mas uma árvore falante, com uma face enrugada de sabedoria, avisa com uma voz grave: "Essa ponte é uma ilusão, um truque das fadas. Confie em seus olhos e cairá para sempre nas profundezas."
+Enquanto você continua pela trilha, as fadas o guiam alegremente, suas luzes dançando ao redor. Mas à medida que avançam, uma névoa espessa e sinistra começa a surgir, bloqueando o caminho das fadas. Desesperadas, elas tentam alertá-lo: "Não confie no que está por vir! Ele só traz engano e ilusões!"
+
+De repente, um elfo da floresta emerge silenciosamente do meio das árvores. Com um gesto ágil, ele lança um feitiço que prende as fadas em uma esfera de luz, silenciando seus sussurros e impedindo-as de seguir adiante. O elfo então se aproxima e, com um sorriso enigmático, oferece-se para guiá-lo. Seguindo sua liderança, você é conduzido até uma ponte de cipós que parece precária, estendida sobre um abismo escuro. O elfo, porém, assegura que a ponte à frente é segura.
 
 ### Escolha:
 
 1. **Atravessar a ponte**
-   - **Resultado**: Assim que você pisa na ponte, ela desaparece sob seus pés. Você cai em um abismo sem fim, a escuridão o engole, e sua bolha estoura. [Game Over: Perdeu uma vida.]
-
+   - **Resultado**: Confiando no elfo, você pisa na ponte. No entanto, assim que avança, a ponte desaparece sob seus pés, revelando ser uma ilusão criada pelo próprio elfo da floresta. Você cai no abismo, a escuridão o engole, e sua bolha estoura. [Game Over: Perdeu uma vida.]
+   
 2. **Evitar a ponte**
-   - **Resultado**: Ignorando o convite das fadas, você decide confiar na árvore e recuar. As fadas desaparecem, mas ao seguir um novo caminho, você encontra o artefato escondido em uma árvore antiga, iluminado por uma luz etérea. [Continuar para o encontro com a bruxa]
+   - **Resultado**: Ignorando o elfo da floresta, você decide evitar a ponte. Ao explorar outro caminho, você se depara com uma árvore antiga, que devido aos atuais eventos encontra-se iluminada por uma luz etérea que parece pulsar com vida própria. Ao se aproximar, percebe que a árvore emana uma aura de proteção e mistério. Dentro de um buraco em seu tronco, você descobre o artefato escondido: um fragmento de um selo antigo, que os elfos guardaram com zelo ao longo dos séculos. 
 
-## Transição - Morte no Caminho das Fadas
-
-Ops! Parece que a confiança nas fadas não foi uma escolha tão sábia assim. Mas não se preocupe, todo erro é uma chance de aprender... em outro lugar. Vamos tirar você daqui antes que a gravidade tenha mais alguma palavra a dizer.
-
+[Pegar o Artefato]
 ---
 
 ## Cabana da Bruxa - Desafio Moral
 
-Você se aproxima da cabana da bruxa, sentindo o ar ao redor ficar pesado e denso com o cheiro de ervas e fumaça. Antes de entrar, você se depara com uma cena angustiante: um Elfo moribundo, preso por uma maldição temporal, estendido no chão. Ele estende a mão fraca em sua direção, oferecendo-lhe um amuleto cintilante que parece vibrar com poder.
+Você se aproxima da cabana da bruxa, sentindo o ar ao redor ficar pesado e denso com o cheiro de ervas e fumaça. Mas no percurso, você se depara com uma cena angustiante: um Elfo moribundo, preso por uma maldição, estendido no chão. Ele estende a mão fraca em sua direção, oferecendo-lhe um amuleto cintilante que parece vibrar com poder.
 
 "O amuleto concederá a você um grande poder, mas tome-o e abandone-me, e estará condenado a carregar essa maldição," ele avisa. "Ou ajude-me a quebrar essa maldição, e eu lhe darei algo de valor maior, quando a hora certa chegar."
 
@@ -77,33 +76,62 @@ Você se aproxima da cabana da bruxa, sentindo o ar ao redor ficar pesado e dens
    - **Resultado**: Você pega o amuleto, sentindo o poder fluir por seu corpo. Você agora possui um grande poder, mas sente uma sombra sobre si. A maldição do Elfo começará a corroer sua vitalidade nas fases seguintes. 
 
 2. **Ajudar o Elfo**
-   - **Resultado**: Você decide ajudar o Elfo, quebrando a maldição temporal que o aflige. O Elfo agradece profundamente, prometendo retornar a você na hora da necessidade. O amuleto se desfaz, mas você sente que ganhou um aliado poderoso. 
+   - **Resultado**: Você decide ajudar o Elfo, quebrando a maldição que o aflige. O Elfo agradece profundamente, prometendo retornar a você na hora da necessidade. O amuleto se desfaz, mas você sente que ganhou um aliado poderoso. 
    
 ---
 
 ## Cabana da Bruxa - Desafio Mortal
 
-Dentro da cabana, a bruxa o recebe com um sorriso enigmático, seus olhos brilhando no escuro. Ela o guia até um caldeirão fumegante, onde um líquido negro borbulha. "Eu posso ajudá-lo a encontrar o artefato," ela murmura, "mas primeiro, você deve provar sua determinação. Beba esta poção e sobreviva ao que virá."
+Dentro da cabana, a bruxa o recebe com um sorriso enigmático, seus olhos brilhando no escuro. Ela o guia até um caldeirão fumegante, onde um líquido negro borbulha. "O caminho até o artefato é árduo," ela sussurra, "Muitos tentaram, mas ninguém jamais retornou. Para provar sua determinação, você deve beber desta poção."
+
+Ela pausa, observando sua reação, e então estende a mão, oferecendo um pequeno frasco de vidro com um líquido que parece pulsar, como se estivesse vivo. Você leva o frasco, mas fica relutante em beber a poção. 
+
+Você a segura por um momento, enquanto a bruxa o observa em silêncio. Finalmente, você toma uma decisão:
 
 ### Escolha:
 
 1. **Beber a poção**
-   - **Resultado**: Ao beber a poção, você sente uma dor intensa atravessar seu corpo. As sombras ao seu redor ganham vida, atacando você sem piedade. Você tenta lutar, mas as forças da escuridão são implacáveis. Sua bolha estoura, e você cai, derrotado. [Game Over: Perdeu uma vida.]
+   - **Resultado**: Ao beber a poção, uma dor intensa atravessa seu corpo. A bruxa observa atentamente, um sorriso tênue esboçando seus lábios, enquanto uma expressão de decepção se forma em seu rosto. As sombras ao seu redor ganham vida, atacando você sem piedade. Você tenta lutar, mas as forças da escuridão são implacáveis. Sua bolha estoura, e você cai, derrotado. [Game Over: Perdeu uma vida.]
 
 2. **Recusar a poção**
-   - **Resultado**: Você recusa a poção, mantendo sua mente clara. A bruxa ri baixinho, impressionada com sua coragem. Ela o guia até o artefato, um fragmento de um selo antigo, escondido em um pedestal de pedra coberto de runas. "Ele já sente o despertar do poder deste artefato," ela sussura. "Use-o com sabedoria, pois o tempo não está ao seu lado."
+   - **Resultado**: Você encara a bruxa nos olhos, e com a voz firme diz: "Eu não preciso de uma poção para provar meu valor." A bruxa ri baixinho, impressionada com sua coragem. "Muito bem. Mas lembre-se, o poder do artefato é grande e perigoso. E ele já sente o despertar deste poder. Use-o com sabedoria, e não deixe que caia em mãos erradas". Ela o guia até o artefato, um fragmento de um selo antigo, que os elfos guardaram com zelo ao longo dos séculos. Escondido em uma árvore antiga, que devido aos atuais eventos encontra-se iluminada por uma luz etérea que parece pulsar com vida própria. 
    
 [Pegar o artefato]
 
-Você pega o artefato, sentindo uma corrente de energia pulsar através dele. O artefato brilha com uma luz que parece distorcer o tempo ao seu redor.
+---
+# Comentários Inesperados do Destino
+## Confiança é bom, mas desconfiança é melhor ainda, não acha?
 
-## Transição - Morte no Caminho da Bruxa
+##Fadas
+# Comentários Inesperados do Destino
+---
+## Quem precisa de uma ponte sólida quando se pode ter uma queda épica?
 
-Provar sua determinacao, serio, jamais deixe uma bruxa te dizer o que fazer...
-Ah, a velha história da poção mágica... parece que desta vez o "experimento" não deu muito certo, hein? Quem diria que confiar cegamente em uma bruxa poderia levar a isso? Mas relaxe, o próximo lugar para onde você vai será, no mínimo, uma mudança de cenário. Nada como uma pequena viagem para espairecer, não é?
+Elas te avisaram sobre o elfo da floresta, não foi? 
+
+Agora você pode adicionar 'cair em ilusões' ao seu currículo de aventuras. Quem precisa de uma ponte real, não é mesmo? Mas relaxe, a próxima parada para onde você vai será, no mínimo, uma mudança de cenário. Nada como uma pequena viagem para espairecer... ou, neste caso, descer rapidamente!
+
+## Bruxa
+# Comentários Inesperados do Destino
+---
+## Ah, a velha história da poção mágica!
+
+Quem diria que a 'cura' poderia ser tão letal? Parece que você não leu as letras miúdas do rótulo! 
+
+Talvez na próxima vida você escolha um curso de alquimia para entender melhor essas coisas. Mas relaxe, a próxima parada para onde você vai será, no mínimo, uma mudança de cenário. Nada como uma pequena viagem para espairecer...ou, neste caso, descer rapidamente!
+
+Não pense muito, você consegue:
 
 ---
+[[Estourar a bolha! -> Sci-Fi_01]] 
 
+## ## Artefato de poder - Fim da fase
+## Artefato de poder
 
+Você pega o artefato com cuidado, sentindo uma energia poderosa pulsar em suas mãos. Ele brilha com uma luz intensa, que parece distorcer o tempo ao seu redor, criando um efeito hipnotizante. 
 
+Agora, você é o guardião deste fragmento de poder, a chave para continuar sua jornada. 
+
+---
+[[Continuar -> -> Canto II]]
 

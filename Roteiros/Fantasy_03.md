@@ -2,10 +2,17 @@
 
 ## Transição para o Canto III
 
-Com cada escolha que você faz, o ambiente ao seu redor parece se distorcer, como se o próprio tecido do tempo estivesse se desintegrando. A figura pálida, agora mais etérea do que nunca, desaparece na escuridão, mas sua voz ecoa em sua mente: "Você está mais perto do que imagina... mas o tempo não está ao seu lado."
+Com cada escolha que você faz, o ambiente ao seu redor parece se distorcer, como se o próprio tecido do tempo estivesse se desintegrando.
 
-À medida que você avança, uma sensação de déjà vu o envolve, como se estivesse repetindo os mesmos passos que um dia o levaram até aqui. Mas algo, ou alguém, está jogando com sua percepção, e a cada instante que passa, a sensação de que o tempo está prestes a se esgotar se intensifica. Você sente que a verdadeira batalha está por vir... e que ela definirá o destino não apenas deste mundo, mas do tempo em si.
+A cada passo, você sente a pressão crescente, como se o tempo estivesse prestes a se desmoronar ao seu redor.
 
+Você sente que está mais perto do que imagina... e a cada instante que passa, a sensação de que o tempo está prestes a se esgotar se intensifica. Os ponteiros do relógio parecem ecoar na sua mente, acelerando e desacelerando em uma dança caótica que ameaça consumir sua sanidade.
+
+No horizonte, a Fortaleza do Tempo se ergue, imponente e sombria, uma prisão que desafia as leis da realidade. A verdadeira batalha está por vir, uma batalha que definirá o destino não apenas deste mundo, mas do tempo em si.
+
+O silêncio antes da tempestade se instala, e você sabe que não há retorno. O momento final está à sua frente, onde todas as suas decisões culminarão em um confronto contra a ameaça oculta, o senhor do tempo.
+[Prelúdio - A Ameaça Oculta] 
+---
 [Iniciar o Canto III]
 
 ## Desafio 1: Confronto com as Fadas Corrompidas

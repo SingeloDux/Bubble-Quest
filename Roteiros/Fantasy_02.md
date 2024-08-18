@@ -2,97 +2,119 @@
 
 ## Transição para o Canto II
 
-Com o artefato em mãos, a floresta ao seu redor começa a se transformar. As sombras se alongam, e o ar esfria. As sombras se alongam, e o ar esfria drasticamente. Você sente a presença de uma entidade antiga, como se algo despertasse com a energia do artefato. O artefato começa a brilhar intensamente, quase como um farol que atraiu algo mortal.
+Com o artefato em mãos, a floresta ao seu redor começa a se transformar. As sombras se alongam, e o ar esfria drasticamente. Você sente a presença de uma entidade antiga, como se algo despertasse com a energia do artefato. O artefato começa a brilhar intensamente, quase como um farol que atraiu algo mortal.
 
 De repente, você ouve uma voz em sua mente, fria e antiga, dizendo: "O artefato abriu os portões para um novo reino. Você deve continuar... ou ser consumido pelo que despertou."
 
-[Continuar]
 ---
-
 [Iniciar o Canto II]
+
 
 ## Entrada na Floresta Sombria
 
-Ao adentrar a floresta, a atmosfera muda drasticamente. A luz da lua quase não penetra o dossel espesso das árvores, deixando tudo envolto em uma penumbra inquietante. O ar é pesado, impregnado com o cheiro de terra molhada e folhas em decomposição, e as sombras ao seu redor parecem vivas, observando cada passo seu.
+Ao adentrar a floresta, a atmosfera muda drasticamente. A luz da lua quase não penetra o dossel espesso das árvores retorcidas, deixando tudo envolto em uma penumbra inquietante. O ar é pesado, impregnado com o cheiro de sangue e terra úmida, e as sombras alongadas se contorcem como serpentes. Um uivo agudo rompe o silêncio, seguido por uma risada rouca que ecoa entre as árvores.
 
-Um uivo distante rompe o silêncio, seguido por uma risada suave, que reverbera na escuridão. A sensação de que algo ou alguém está à espreita se intensifica, até que, subitamente, uma figura sombria surge à sua frente. Seus olhos brilham no escuro, e uma voz melancólica sussurra: "Venha... o que procura está logo adiante."
+Subitamente, uma figura surge das sombras. Sua pele é pálida como a lua, os olhos escarlates brilham intensamente e longas unhas afiadas cintilam à luz da lua. Uma voz suave, mas mortal, sussurra: "O seu sangue, tão puro e quente, me chama. Venha, junte-se a nós.",  apontando para duas figuras misteriosas que apareceram repentinamente diante dos seus olhos.
 
-Logo adiante, duas figuras misteriosas aparecem, cada uma oferecendo um caminho diferente:
+À esquerda, uma figura pálida e elegante, com um olhar penetrante e um sorriso enigmático, veste-se em trajes antigos e exala um ar de superioridade. À direita, uma figura sombria envolta em um manto negro, seus olhos brilham intensamente na escuridão, refletindo uma malícia insaciável.
 
 ### Escolha um caminho:
 
-1. **Seguir a figura sombria com o manto negro**
-   - **Resultado**: A figura, com olhos que brilham como brasas, acena para que você a siga. "Há algo que você precisa ver," ela murmura. Sua voz é hipnotizante, mas há uma ameaça implícita em suas palavras, sugerindo que segredos antigos serão revelados, mas a um alto custo.
+1. **Seguir a figura sombria**
 
-2. **Seguir a figura pálida e elegante**
-   - **Resultado**: A figura, pálida como a lua, move-se com graça sobrenatural, quase flutuando sobre o chão. "Estou aqui para protegê-lo," ela diz suavemente, mas há uma insinuação de perigo oculto em suas palavras. Será que ela está te levando para uma armadilha ou a algo ainda pior?
+2. **Seguir a figura pálida**
 
 ---
 
 ## Figura Sombria - Desafio Moral
+1. **Seguir a figura sombria**
+   - **Resultado**:
+A figura sombria, com olhos que brilham como brasas, conduz você até uma clareira, onde um antigo altar de pedra está coberto de runas desgastadas pelo tempo. Sobre o altar, há um cálice de obsidiana contendo um líquido vermelho escuro, quase negro. "Beba," ela ordena, "e a verdade se revelará."
 
-A figura sombria guia você até uma clareira, onde um antigo altar de pedra está coberto de runas desgastadas pelo tempo. Sobre o altar, há um cálice de prata contendo um líquido vermelho escuro, quase negro. "Beba, e verá além do véu da realidade," a figura ordena, sua voz ressoando com um poder ancestral. "Mas cuidado, o que você verá pode mudar você para sempre."
+Curioso, você pergunta: "Por que um cálice de obsidiana? Não seria a prata mais tradicional?" Um sorriso sinuoso se forma em seus lábios, revelando dentes afiados. "A prata é para os mortais comuns," ela responde. "Este cálice foi forjado em um ritual antigo, capaz de conter a essência mais pura."
 
-Enquanto pondera a escolha, uma brisa gélida passa por você, trazendo consigo o som de passos distantes, como se alguém estivesse se aproximando. De relance, você pensa ter visto uma sombra familiar, algo ou alguém que não deveria estar aqui. Um sentimento de déjà vu se apodera de você, mas a memória escapa antes que possa agarrá-la.
+Enquanto pondera a escolha, uma brisa gélida passa por você. De relance, você pensa ter visto alguém que não deveria estar aqui. Um sentimento de déjà vu se apodera de você, mas a memória escapa antes que possa agarrá-la.
+
+Então, com o peso da decisão sobre seus ombros, você decide:
 
 ### Escolha:
 
 1. **Beber do cálice**
-   - **Resultado**: Ao beber, uma corrente fria atravessa seu corpo, e visões de um futuro sombrio e distorcido invadem sua mente. Você vê a si mesmo como um servo do mal, preso a uma realidade onde o tempo dita seu destino, forçando-o para fora da bolha. [Esta escolha afeta negativamente suas chances no Canto III.]
-
+   - **Resultado**: Movido pela curiosidade, você bebe o líquido contido no cálice. Uma corrente fria atravessa seu corpo, e visões de um futuro sombrio e distorcido invadem sua mente. Você vê um vislumbre de si mesmo como um servo do mal, preso em uma realidade onde o tempo dita seu destino, forçando-o para fora da bolha. Ao recobrar a consciência, sente um poder crescendo dentro de si, mas também uma sede insaciável por controle e poder. A figura sombria sorri, satisfeita. "Agora, você carrega a essência dos antigos," ela sussurra. No entanto, ao beber do cálice, você recebe o Cálice Rúnico, que agora está vinculado a você. Esse item pode ser usado para restaurar uma pequena quantidade de vida ou conceder resistência aos efeitos temporais, mas com o risco de fortalecer a influência maligna dentro de você. De seguida, a figura sombria leva você até um salão grandioso, onde você encontra a figura de olhos escarlates.
+   
 2. **Recusar o cálice**
-   - **Resultado**: Você recua, sentindo o peso da escolha que não fez. A figura sombria sorri, como se você tivesse passado um teste invisível. "Muito bem, nem todos estão prontos para ver o que está além," ela diz. Você sente uma leveza, como se tivesse evitado um grande perigo. [Esta escolha pode te beneficiar no Canto III.]
-
----
-
-## Figura Sombria - Desafio Mortal
-
-A figura sombria te leva até uma ponte estreita, que atravessa um rio de águas negras, profundas e imóveis. "Atravessar é a única maneira de chegar ao coração desta escuridão," ela diz, mas há algo de errado com a ponte. Ela está coberta de trepadeiras, e o ar ao redor é estranhamente frio.
-
-Conforme se aproxima, o som de uivos se intensifica, e você percebe que está cercado por lobos, suas presas brilhando na escuridão. Eles parecem esperar por algo... ou por alguém. De repente, uma voz fria e sarcástica sussurra ao seu ouvido: "À espera do Drácula ou talvez devesse dizer Alucard? Sinto desapontá-lo, mas esses não são os lobos de nenhum dos dois. Vamos, atravesse a ponte."
-
-### Escolha:
-
-1. **Atravessar a ponte**
-   - **Resultado**: Assim que você coloca o pé na ponte, as trepadeiras ganham vida, prendendo suas pernas. Você luta, mas elas te puxam para as águas negras abaixo. A escuridão te envolve, e sua bolha estoura. [Game Over: Perdeu uma vida.]
-
-2. **Contornar a ponte**
-   - **Resultado**: Ignorando a figura sombria, você decide contornar a ponte. Enquanto caminha ao longo da margem do rio, você encontra um caminho oculto entre as árvores, que o leva a uma antiga ruína coberta de musgo. Dentro, você encontra uma arma encantada, emanando uma energia mística. [Esta arma será crucial no Canto III.]
-
+   - **Resultado**: Você recua, afastando-se da tentação. Em um gesto suave, a figura coloca o cálice de volta sobre o altar. "Muito bem, nem todos estão prontos para ver o que está além," ela diz, com um tom de desaprovação, mas sem insistir, respeitando sua prudência. Embora aliviado por ter escapado da tentação, você sente uma sensação de perda, como se tivesse renunciado a uma força que poderia ter sido útil. De seguida, a figura sombria leva você até um salão grandioso, onde você encontra a figura de olhos escarlates.
 ---
 
 ## Figura Pálida - Desafio Moral
+2. **Seguir a figura pálida**
+   - **Resultado**: 
+A figura pálida e elegante, que move-se com graça sobrenatural, quase flutuando sobre o chão. O guia por um caminho tortuoso, ladeado por árvores retorcidas cujas sombras parecem se alongar de maneira antinatural. O ar ao seu redor é denso, quase como se o tempo estivesse se desacelerando com cada passo.
 
-A figura pálida o guia por um caminho estreito e sinuoso, ladeado por árvores retorcidas cujas sombras parecem se alongar de maneira antinatural. Ao longe, você ouve o som de correntes arrastando-se pelo chão e o farfalhar de asas. À medida que a figura se move, quase flutuando pelo caminho, ela murmura palavras que parecem perdidas no tempo.
+Finalmente, ela para diante de uma antiga mansão em ruínas, e com um gesto lento, empurra as portas de carvalho pesado. O ranger das dobradiças ecoa pelo salão vazio. No centro do salão, sobre um pedestal, está um espelho coberto por uma cortina de veludo vermelho. "Este espelho revela verdades que o coração pode não estar pronto para suportar," a figura murmura. "Você ousa encarar sua própria alma?"
 
-Finalmente, você chega a uma mansão antiga e decadente, com janelas quebradas e portas rangentes. "Este lugar guarda muitos segredos," ela diz, enquanto abre as portas, que rangem sob o peso dos séculos. No salão principal, você encontra um espelho antigo, empoeirado e coberto por uma cortina de veludo vermelho.
-
-"Este espelho mostra a verdade," a figura diz, "mas a verdade pode ser dolorosa. Você está disposto a enfrentar o que verá?"
-
-Enquanto você pondera a decisão, um lampejo de memória assola sua mente. Não é a primeira vez que você vê este espelho... ou será que é? Por um breve instante, a sensação de que o tempo está se dobrando sobre si mesmo o deixa tonto. Há algo, ou alguém, jogando com a sua percepção.
+Enquanto você pondera a decisão, uma estranha sensação de déjà vu se apodera de você, como se este momento já tivesse ocorrido antes, talvez em um sonho, ou em um pesadelo que você esqueceu. Algo está fora do lugar, mas você não consegue identificar o quê.A realidade parece dobrar e distorcer ao seu redor, e então, com o peso da decisão sobre seus ombros, você decide:
 
 ### Escolha:
 
 1. **Olhar no espelho**
-   - **Resultado**: Você retira a cortina, revelando o espelho. Ao olhar, você vê um reflexo distorcido de si mesmo, consumido pela escuridão e pelas trevas. Sua alma parece estar presa em um ciclo interminável de tormento, onde o tempo se arrasta eternamente. A figura pálida observa em silêncio, sem revelar suas intenções. [Esta escolha pode afetar sua sanidade no Canto III.]
+   - **Resultado**: Você remove a cortina e encara o espelho. Em vez de seu reflexo, você vê uma versão distorcida de si mesmo, uma sombra envolta em trevas. O espelho não mostra apenas a sua aparência física, mas reflete as profundezas da sua alma—seus medos, arrependimentos, e as escolhas que poderiam ter sido diferentes. À medida que observa, a imagem começa a se desintegrar, fragmentando-se em pedaços que flutuam no ar antes de desaparecerem completamente. O espelho quebra-se em uma explosão silenciosa, e você sente uma fração de sua sanidade escorrer para longe, deixando uma marca indelével em sua mente. De seguida, a figura pálida leva você até um salão grandioso, onde você encontra a figura de olhos escarlates.[Esta escolha enfraquece sua determinação e pode afetar sua sanidade no Canto III.]
    
 2. **Virar as costas para o espelho**
-   - **Resultado**: Você decide não olhar no espelho e, em vez disso, vira-se para a figura pálida. "Nem todos estão prontos para enfrentar a verdade," ela murmura. Ela lhe entrega uma chave antiga, que brilha com uma luz dourada. "Use isto quando a hora chegar." [Esta escolha pode ajudá-lo no Canto III.]
+   - **Resultado**: Você decide não olhar no espelho e, em vez disso, vira-se para a figura pálida. "Nem todos estão prontos para enfrentar a verdade," ela diz com uma voz distante. Então ele faz um gesto e o espelho então quebra-se. Ao redor dos cacos, você encontra uma Ampulheta Quebrada. "O tempo é uma arma perigosa... e agora você possui um fragmento dele," murmura a figura pálida. "Use isto quando a hora chegar." De seguida, a figura pálida leva você até um salão grandioso, onde você encontra a figura de olhos escarlates.[Esta escolha pode ajudá-lo no Canto III.]
 
 ---
+Salão Grandioso
+## Desafio Semi-Mortal
 
-## Figura Pálida - Desafio Mortal
+Dentro do salão a figura o guia até uma parte onde um enorme lustre de cristal pende precariamente do teto. As sombras das velas tremeluzem, projetando formas distorcidas nas paredes. Com uma voz suave, a figura de olhos escarlates sussurra: "Você precisa continuar com a sua jornada. Ele está prestes a despertar...A próxima sala guarda um item valioso para a sua jornada.", ela diz, apontando para uma porta ornamentada. 
 
-Depois de lidar com o espelho, a figura pálida o guia até um salão grandioso, onde um enorme lustre de cristal pende precariamente do teto. As sombras das velas tremeluzem, projetando formas distorcidas nas paredes. "A próxima sala guarda o que você procura," ela diz, apontando para uma porta ornamentada. No entanto, ao abrir a porta, o som de correntes pesadas ecoa pelo salão, misturando-se com o som distante de uma risada amarga.
+No entanto, ao abrir a porta, o som de correntes pesadas ecoa pelo salão, misturando-se com o som distante de uma risada amarga.
 
-"Apenas aqueles que desafiam o tempo atravessam ilesos," ela sussurra, e a forma como as palavras saem parece carregar um aviso oculto. Você sente uma presença sombria ao seu redor, algo que distorce a percepção do tempo e do espaço.
+"Apenas aqueles que desafiam o tempo atravessam ilesos," ela sussurra, e a forma como as palavras saem parece carregar um aviso oculto. E então você:
 
 ### Escolha:
 
-1. **Atravessar rapidamente**
-   - **Resultado**: Ao passar pela porta, o lustre acima começa a balançar violentamente. Antes que você possa reagir, ele se solta, despencando em sua direção. Você tenta correr, mas é tarde demais. O peso do cristal o esmaga, e sua bolha estoura. [Game Over: Perdeu uma vida.]
+1. **Atravessa rapidamente**
+   - **Resultado**: Você decide passar pela porta rapidamente. No entanto, assim que avança, o lustre acima começa a balançar violentamente. Antes que possa reagir, ele se solta e despenca em sua direção. Você tenta correr, mas é tarde demais. O cristal cai e te atinge gravemente. [Dano: -0.5 vida] A figura de olhos escarlates veio até você e te ergueu com um gesto cansado. "Ah, a juventude! Tão apressada para abraçar o destino, sem apreciar a arte da espera", resmungou. "Desafiar o tempo...? A pressa é inimiga da perfeição, e embora o tempo não possa ser desafiado, ele também não gosta de ser desafiado." 
 
 2. **Esperar e observar**
-   - **Resultado**: Você decide parar e observar o lustre antes de atravessar. Percebe que as correntes que o sustentam estão enfraquecidas, prontas para ceder ao menor movimento. Em vez de seguir diretamente, você contorna o salão, encontrando uma passagem lateral segura. Dentro dessa passagem, você encontra um artefato antigo, uma ampulheta quebrada que emite um leve brilho azul. "Isso pode ser útil," murmura a figura pálida, "mas use-a sabiamente... o tempo é traiçoeiro." [Este artefato pode influenciar o combate no Canto III.]
-
+   - **Resultado**: Você decide parar e observar o lustre antes de atravessar. Percebe que as correntes que o sustentam estão enfraquecidas, prontas para ceder ao menor movimento. Você decide analisar a situação com calma. Ao se aproximar do lustre, com cuidado, você encontra uma alavanca escondida na parede que controla o mecanismo do lustre. Ao acioná-la, o lustre é içado para cima, permitindo que você passe por baixo em segurança. Ao explorar a sala, você encontra uma chave emitindo um brilho dourado. Voce pega a chave retorna a figura de olhos escarlates.  [Este artefato pode influenciar o combate no Canto III.]
 ---
+## Desafio Mortal Desafio Final - A Charada do Sangue
+
+Logo após o salão, a figura de olhos escarlates te conduz até uma clareira envolta em sombras, onde o ar é pesado e denso. No centro, há uma antiga lápide de pedra, coberta por musgo, com inscrições desgastadas pelo tempo. Ao se aproximar, você ouve a figura sussurrar com uma voz gélida: "Você está perto do seu destino, mas antes de avançar... responda a esta charada, e talvez sobreviva para contar a história. Mas cuidado, a escuridão é impiedosa com os ignorantes."
+
+A figura recua, deixando o ambiente em silêncio, exceto pelos sons distantes de uivos e asas batendo. Então, você limpa o musgo e, enquanto lê mentalmente as inscrições na lápide de pedra, a voz da figura ressoa de repente, desta vez mais forte, criando um efeito ecoante que se mistura com seus pensamentos.
+
+"Eu sou a vida para os mortos e a morte para os vivos. Quem sou eu?"
+
+### Escolha:
+1. **Vampiro**
+   - **Resultado**: "Vampiro," você diz. A figura sombria sorri, mas sem aprovação. "Eu sou movido pelo sangue, mas não sou ele." De repente, a lápide se transforma em garras de pedra que te agarram e te puxam para baixo. A escuridão o engole, e sua bolha estoura... e você morre! [Game Over: Perdeu uma vida.]
+
+2. **Morte**
+   - **Resultado**: "Morte," você arrisca. A figura sombria ri baixinho, como se apreciasse a ironia. "A morte é o fim para todos, mas não para aqueles que vivem na escuridão." A lápide se dissolve em névoa, e a escuridão te envolve completamente. Sua bolha estoura... e você morre! [Game Over: Perdeu uma vida.]
+   
+3. **Sangue**
+   - **Resultado**: "Sangue," você responde. A figura sombria acena com satisfação. "O sangue é vida para os amaldiçoados, e a morte para aqueles que o perdem." A lápide se parte ao meio, revelando uma passagem secreta. Ao descer, você encontra uma Espada Mística, irradiando uma energia que parece pulsar como um coração batendo. [Esta arma será crucial no Canto III.]
+
+4. **Espada**
+   - **Resultado**: "Espada", você declara, com a voz firme. A figura sombria inclina a cabeça, com um tom de desaprovação. "A espada corta a carne, mas não a alma. Somente a verdade pode abrir este caminho", afirma ela, transformando-se em um morcego e desaparecendo, deixando para trás um brilho luminescente. A lápide se eleva, revelando uma muralha de aço, impenetrável e fria. A muralha se fecha atrás dela e a fenda se fecha. Sua bolha estoura e você morre! [Game Over: Perdeu uma vida.]
+
+# Comentários Inesperados do Destino 2
+## A escuridão é impiedosa com os ignorantes.
+
+Nada como uma bolha estourada para lembrar que nem tudo é tão fácil quanto parece. Mas não se preocupe, todo erro é uma chance de aprender... em outro lugar. 
+
+Vamos tirar você daqui antes que a gravidade tenha mais alguma palavra a dizer. Não pense muito, você consegue:
+
+
+## Vencer a batalha, não a guerra!
+
+(text-style:"blurrier","buoy")[Voce perdeu muito sangue! 
+]
+Na próxima vez, tente manter os olhos abertos e os ouvidos atentos. 
+
+Ou talvez você prefira continuar tropeçando em armadilhas. 
+
