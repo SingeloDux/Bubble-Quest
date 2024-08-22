@@ -6,7 +6,7 @@ Quem não adoraria um mundo onde dragões alçam voos majestosos, incubus e sucu
 
 Mas, cuidado! 
 
-As criaturas aqui podem ser...claro, você não está aqui para isso!  
+As criaturas aqui podem ser...claro, você não está aqui para isso!
 
 [Iniciar a jornada]
 
