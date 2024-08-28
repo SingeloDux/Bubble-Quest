@@ -2,7 +2,7 @@
 
 Ah, Fantasia! Claro, por que não? 
 
-Quem não adoraria um mundo onde dragões alçam voos majestosos, incubus e sucubus se esgueiram em sonhos, vampiros são tanto românticos quanto mortais, fadas são travessas e, de alguma forma, sempre há uma missão "importantíssima" esperando por você? 
+Quem não adoraria um mundo onde os trolls habitam, dragões alçam voos majestosos, incubus e sucubus se esgueiram em sonhos, vampiros são tanto românticos quanto mortais, fadas são travessas e, de alguma forma, sempre há uma missão "importantíssima" esperando por você? 
 
 Mas, cuidado! 
 
@@ -12,7 +12,6 @@ As criaturas aqui podem ser...claro, você não está aqui para isso!
 
 ---
 # Canto I: A floresta encantada!
-
 ## Entrada na Floresta
 
 Você se encontra numa floresta encantada, onde o ar parece brilhar com uma leve poeira dourada. Luzes suaves dançam ao redor, e o som de risadas distantes cria uma atmosfera ao mesmo tempo acolhedora e inquietante. Elfos montados em dragões sobrevoam a floresta, como se estivessem te observando. Árvores antigas com faces enrugadas observam você atentamente, algumas oferecendo conselhos enigmáticos, outras apenas sussurrando segredos inaudíveis.
@@ -33,7 +32,7 @@ Logo à frente, você se depara com duas trilhas divergentes:
 
 Você segue as luzes cintilantes à sua frente, conduzido por fadas pequenas e luminosas que riem suavemente ao seu redor. Elas o conduzem a um pequeno lago no coração da floresta, onde uma figura solitária se encontra: um jovem elfo, preso em um círculo de cogumelos venenosos. Ele olha para você com olhos desesperados e pede ajuda.
 
-"Essas fadas me traíram," ele diz com a voz trêmula. "Se você me libertar, darei a você uma pedra mágica que lhe concederá um desejo no momento certo."
+"Essas fadas me traíram," ele diz com a voz trêmula. "Se você me libertar, darei a você uma pedra mágica."
 
 As fadas trocam olhares e risadas sutis, como se achassem graça na acusação do elfo. Uma delas sussurra perto de seu ouvido: "Ele sempre teve um jeito com palavras, mas cuidado, elas são mais afiadas do que você imagina."
 
@@ -55,10 +54,10 @@ De repente, um elfo da floresta emerge silenciosamente do meio das árvores. Com
 
 ### Escolha:
 
-1. **Atravessar a ponte**
-   - **Resultado**: Confiando no elfo, você pisa na ponte. No entanto, assim que avança, a ponte desaparece sob seus pés, revelando ser uma ilusão criada pelo próprio elfo da floresta. Você cai no abismo, a escuridão o engole, e sua bolha estoura. [Game Over: Perdeu uma vida.]
+1. **Obrigado pela ajuda!**
+   - **Resultado**: Confiando no elfo, você pisa na ponte. No entanto, assim que avança, a ponte desaparece sob seus pés, revelando ser uma ilusão criada pelo próprio elfo da floresta. Você cai no abismo, a escuridão o engole, e sua bolha estoura. Você cai e morre![Game Over: Perdeu uma vida.]
    
-2. **Evitar a ponte**
+2. **Não pedi sua ajuda!**
    - **Resultado**: Ignorando o elfo da floresta, você decide evitar a ponte. Ao explorar outro caminho, você se depara com uma árvore antiga, que devido aos atuais eventos encontra-se iluminada por uma luz etérea que parece pulsar com vida própria. Ao se aproximar, percebe que a árvore emana uma aura de proteção e mistério. Dentro de um buraco em seu tronco, você descobre o artefato escondido: um fragmento de um selo antigo, que os elfos guardaram com zelo ao longo dos séculos. 
 
 [Pegar o Artefato]
@@ -66,18 +65,17 @@ De repente, um elfo da floresta emerge silenciosamente do meio das árvores. Com
 
 ## Cabana da Bruxa - Desafio Moral
 
-Você se aproxima da cabana da bruxa, sentindo o ar ao redor ficar pesado e denso com o cheiro de ervas e fumaça. Mas no percurso, você se depara com uma cena angustiante: um Elfo moribundo, preso por uma maldição, estendido no chão. Ele estende a mão fraca em sua direção, oferecendo-lhe um amuleto cintilante que parece vibrar com poder.
+Você se aproxima da cabana da bruxa, sentindo o ar ao redor ficar pesado e denso com o cheiro de ervas e fumaça. Mas no percurso, você se depara com uma cena angustiante: um Elfo moribundo, preso por uma maldição, estendido no chão. 
 
-"O amuleto concederá a você um grande poder, mas tome-o e abandone-me, e estará condenado a carregar essa maldição," ele avisa. "Ou ajude-me a quebrar essa maldição, e eu lhe darei algo de valor maior, quando a hora certa chegar."
+"Por favor, me ajude," ele implora, sua voz cheia de dor. Você olha para ele e percebe que ele segura um amuleto cintilante que parece vibrar com poder. E então ele diz: "Este amuleto... ele concederá a você um grande poder, mas se você o tomar e me abandonar, estará condenado a carregar essa maldição. Ou, se preferir, ajude-me a quebrar essa maldição, e eu lhe darei algo de maior valor."
 
 ### Escolha:
 
 1. **Tomar o amuleto**
-   - **Resultado**: Você pega o amuleto, sentindo o poder fluir por seu corpo. Você agora possui um grande poder, mas sente uma sombra sobre si. A maldição do Elfo começará a corroer sua vitalidade nas fases seguintes. 
+   - **Resultado**: Você pega o amuleto, sentindo o poder fluir por seu corpo. Você agora possui um grande poder e guarda o amuleto consigo, certo de que será útil no futuro. Por enquanto, você segue em frente, satisfeito com sua escolha.
 
 2. **Ajudar o Elfo**
-   - **Resultado**: Você decide ajudar o Elfo, quebrando a maldição que o aflige. O Elfo agradece profundamente, prometendo retornar a você na hora da necessidade. O amuleto se desfaz, mas você sente que ganhou um aliado poderoso. 
-   
+   - **Resultado**: Você decide ajudar o Elfo, quebrando a maldição que o aflige. O Elfo agradece profundamente, prometendo retornar a você na hora da necessidade. O amuleto se desfaz, o elfo se despede e você continua a sua jornada.
 ---
 
 ## Cabana da Bruxa - Desafio Mortal
@@ -97,41 +95,36 @@ Você a segura por um momento, enquanto a bruxa o observa em silêncio. Finalmen
    - **Resultado**: Você encara a bruxa nos olhos, e com a voz firme diz: "Eu não preciso de uma poção para provar meu valor." A bruxa ri baixinho, impressionada com sua coragem. "Muito bem. Mas lembre-se, o poder do artefato é grande e perigoso. E ele já sente o despertar deste poder. Use-o com sabedoria, e não deixe que caia em mãos erradas". Ela o guia até o artefato, um fragmento de um selo antigo, que os elfos guardaram com zelo ao longo dos séculos. Escondido em uma árvore antiga, que devido aos atuais eventos encontra-se iluminada por uma luz etérea que parece pulsar com vida própria. 
    
 [Pegar o artefato]
+---
+## Artefato de poder - Fim da fase
+## Artefato de poder
+
+Você pega o artefato com cuidado, sentindo uma conexão profunda com o objeto, como se ele fizesse parte de você desde sempre. 
+
+O artefato brilha com uma luz intensa, distorcendo o tempo e o espaço ao seu redor em um efeito hipnotizante. Em suas mãos, uma energia poderosa pulsa, revelando um peso maior do que aparenta—como se carregasse os fardos de mil mundos.
+
+Diante de tanto poder, você se sente pequeno e insignificante, mas agora, você é o guardião de um poder ancestral, a chave para continuar sua jornada.
 
 ---
-# Comentários Inesperados do Destino
-## Confiança é bom, mas desconfiança é melhor ainda, não acha?
+[[Continuar->Canto II]]
 
-##Fadas
-# Comentários Inesperados do Destino
 ---
+#Fadas
+# Comentários Inesperados do Destino
 ## Quem precisa de uma ponte sólida quando se pode ter uma queda épica?
-
+---
 Elas te avisaram sobre o elfo da floresta, não foi? 
 
 Agora você pode adicionar 'cair em ilusões' ao seu currículo de aventuras. Quem precisa de uma ponte real, não é mesmo? Mas relaxe, a próxima parada para onde você vai será, no mínimo, uma mudança de cenário. Nada como uma pequena viagem para espairecer... ou, neste caso, descer rapidamente!
 
-## Bruxa
+# Bruxa
 # Comentários Inesperados do Destino
----
 ## Ah, a velha história da poção mágica!
-
+---
 Quem diria que a 'cura' poderia ser tão letal? Parece que você não leu as letras miúdas do rótulo! 
 
 Talvez na próxima vida você escolha um curso de alquimia para entender melhor essas coisas. Mas relaxe, a próxima parada para onde você vai será, no mínimo, uma mudança de cenário. Nada como uma pequena viagem para espairecer...ou, neste caso, descer rapidamente!
 
 Não pense muito, você consegue:
-
 ---
-[[Estourar a bolha! -> Sci-Fi_01]] 
-
-## ## Artefato de poder - Fim da fase
-## Artefato de poder
-
-Você pega o artefato com cuidado, sentindo uma energia poderosa pulsar em suas mãos. Ele brilha com uma luz intensa, que parece distorcer o tempo ao seu redor, criando um efeito hipnotizante. 
-
-Agora, você é o guardião deste fragmento de poder, a chave para continuar sua jornada. 
-
----
-[[Continuar -> -> Canto II]]
-
+[[Estourar a bolha!->Setor II]] 

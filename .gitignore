@@ -1,0 +1,11 @@
+# Ignorar arquivos binários e grandes
+Drafts/
+Videos/
+Screenshots/
+Bugs/
+
+# Ignorar arquivos temporários e do sistema
+*.log
+*.tmp
+.DS_Store
+
