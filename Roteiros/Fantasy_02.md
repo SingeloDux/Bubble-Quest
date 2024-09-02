@@ -9,7 +9,6 @@ De repente, você ouve uma voz em sua mente, fria e antiga, dizendo: "O artefato
 ---
 [Iniciar o Canto II]
 
-
 ## Entrada na Floresta Sombria
 
 Ao adentrar a floresta, a atmosfera muda drasticamente. A luz da lua quase não penetra o dossel espesso das árvores retorcidas, deixando tudo envolto em uma penumbra inquietante. O ar é pesado, impregnado com o cheiro de sangue e terra úmida, e as sombras alongadas se contorcem como serpentes. Um uivo agudo rompe o silêncio, seguido por uma risada rouca que ecoa entre as árvores.
@@ -25,7 +24,6 @@ Subitamente, uma figura surge das sombras. Sua pele é pálida como a lua, os ol
 2. **Seguir a figura pálida**
 
 ---
-
 ## Figura Sombria - Desafio Moral
 1. **Seguir a figura sombria**
    - **Resultado**:
@@ -64,8 +62,7 @@ Enquanto você pondera a decisão, uma estranha sensação de déjà vu se apode
    - **Resultado**: Você decide não olhar no espelho e, em vez disso, vira-se para a figura pálida. "Nem todos estão prontos para enfrentar a verdade," ela diz com uma voz distante. Então ele faz um gesto e o espelho então quebra-se. Ao redor dos cacos, você encontra uma Ampulheta Quebrada. "O tempo é uma arma perigosa... e agora você possui um fragmento dele," murmura a figura pálida. "Use isto quando a hora chegar." De seguida, a figura pálida leva você até um salão grandioso, onde você encontra a figura de olhos escarlates.[Esta escolha pode ajudá-lo no Canto III.]
 
 ---
-Salão Grandioso
-## Desafio Semi-Mortal
+## Desafio Semi-Mortal - Salão Grandioso
 
 Dentro do salão a figura o guia até uma parte onde um enorme lustre de cristal pende precariamente do teto. As sombras das velas tremeluzem, projetando formas distorcidas nas paredes. Com uma voz suave, a figura de olhos escarlates sussurra: "Você precisa continuar com a sua jornada. Ele está prestes a despertar...A próxima sala guarda um item valioso para a sua jornada.", ela diz, apontando para uma porta ornamentada. 
 
@@ -97,7 +94,7 @@ A figura recua, deixando o ambiente em silêncio, exceto pelos sons distantes de
    - **Resultado**: "Morte," você arrisca. A figura sombria ri baixinho, como se apreciasse a ironia. "A morte é o fim para todos, mas não para aqueles que vivem na escuridão." A lápide se dissolve em névoa, e a escuridão te envolve completamente. Sua bolha estoura... e você morre! [Game Over: Perdeu uma vida.]
    
 3. **Sangue**
-   - **Resultado**: "Sangue," você responde. A figura sombria acena com satisfação. "O sangue é vida para os amaldiçoados, e a morte para aqueles que o perdem." A lápide se parte ao meio, revelando uma passagem secreta. Ao descer, você encontra uma Espada Mística, irradiando uma energia que parece pulsar como um coração batendo. [Esta arma será crucial no Canto III.]
+   - **Resultado**: "Sangue," você responde. A figura sombria acena com satisfação. "O sangue é vida para os amaldiçoados, e a morte para aqueles que o perdem." A lápide se parte ao meio, revelando uma passagem secreta. Ao descer, você encontra uma Espada Mística, irradiando uma energia que parece pulsar como um coração batendo. De repente, uma luz misteriosa o envolve, como um redemoinho de luzes e energia. Quando o turbilhão se acalma, você se vê em um horizonte, onde uma fortaleza do tempo se ergue. [Esta arma será crucial no Canto III.]
 
 4. **Espada**
    - **Resultado**: "Espada", você declara, com a voz firme. A figura sombria inclina a cabeça, com um tom de desaprovação. "A espada corta a carne, mas não a alma. Somente a verdade pode abrir este caminho", afirma ela, transformando-se em um morcego e desaparecendo, deixando para trás um brilho luminescente. A lápide se eleva, revelando uma muralha de aço, impenetrável e fria. A muralha se fecha atrás dela e a fenda se fecha. Sua bolha estoura e você morre! [Game Over: Perdeu uma vida.]

@@ -81,7 +81,7 @@ Você continua avançando pelo labirinto de luzes e sombras. No entanto, no cami
 
 Seguindo a localização passada pelo andróide, você se embrenha nos escombros da cidade, passando por neons antigos que ainda piscam intermitentemente. O ar, carregado de ozônio e metal, arrepia seus pelos à medida que você avança.
 
-Você chega a um shopping abandonado e, enquanto encara a inscrição 'Saída de Emergência', uma voz suave e metálica ecoa: "Você chegou ao coração da resistência." Ao se virar, espera ver um andróide, mas percebe que a figura à sua frente é um ciborgue—uma fusão de carne, osso e componentes metálicos, lembrando-lhe um homem chamado Adam Jensen, que foi forçado a percorrer um caminho semelhante. Ele te guia por entre robôs e humanos até uma sala repleta de telas e componentes eletrônicos.
+Você chega a um shopping abandonado e, enquanto encara a inscrição 'Saída de Emergência', uma voz suave e metálica ecoa: "Você chegou ao coração da resistência." Ao se virar, espera ver um andróide, mas percebe que a figura à sua frente é um ciborgue—uma fusão de carne, osso e componentes metálicos, lembrando-lhe um homem chamado Adam Jensen, que foi forçado a percorrer um caminho semelhante. Ele te guia por entre robôs e humanos até uma sala repleta de telas holográficas e componentes eletrônicos.
 
 No centro da sala, uma mulher de olhar penetrante e sorriso carismático diz: "Você busca o artefato. Podemos guiá-lo até ele, mas o artefato é poderoso. Muitos sucumbiram ao seu poder. Para sua segurança, precisará de um aprimoramento especial." Ela aponta para uma cadeira cirúrgica, onde um implante neural repousa, emitindo um brilho tentador.
 

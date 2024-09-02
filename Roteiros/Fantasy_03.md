@@ -70,7 +70,7 @@ Logo, a verdade se revela: este Guardião não é apenas um adversário; ele é 
 ### Escolha 3: Combate com o Guardião Final
 
 1. **Atacar o Guardião diretamente**
-   - **Resultado**: Com a sua espada, você lança um ataque feroz contra o Guardião, mas assim que a lâmina atinge sua forma distorcida, uma dor intensa explode em seu próprio corpo. O Guardião, imperturbável, absorve o impacto, e você percebe que, a cada golpe seu no Guardião, você fica mais fraco enquanto ele se torna mais poderoso. Frustrado, você ataca cada vez mais forte, até que não lhe sobram mais forças para continuar, e em um último ataque, patético como uma pancada de uma folha, você cai, e o Guardião permanece de pe, diante do seu corpo estatelado no chao. [Game Over: Morte]
+   - **Resultado**: Com a sua espada, você lança um ataque feroz contra o Guardião, mas assim que a lâmina atinge sua forma distorcida, uma dor intensa explode em seu próprio corpo. O Guardião, imperturbável, absorve o impacto, e você percebe que, a cada golpe seu no Guardião, você fica mais fraco enquanto ele se torna mais poderoso. Frustrado, você ataca cada vez mais forte, até que não lhe sobram mais forças para continuar, e em um último ataque, patético como uma pancada de uma folha, você cai, e o Guardião permanece de pé, diante do seu corpo estatelado no chão. [Game Over: Morte]
 
 2. **Usar um item**
    - **Resultado se o jogador usar a Chave Dourada**: Você decide esquivar e observar enquanto procura formas de parar a réplica. E enquanto você foge dos ataques do Guardião, você para diante de uma fenda que lhe lembra a chave dourada. Ao usa-la, um compartimento secreto na sala é aberto, revelando uma arma especial que desativa todas as ilusões e efeitos temporais da fortaleza, incluindo o Guardião, que instantaneamente começa a se desintegrar diante de você.
@@ -80,6 +80,4 @@ Logo, a verdade se revela: este Guardião não é apenas um adversário; ele é 
 
 4. **Desistir e aceitar a derrota**
    - **Resultado**: Enfraquecido e sem ver uma saída, você abaixa sua arma e se entrega à escuridão. Você luta para manter o foco, mas suas ações são imprecisas, e sua sanidade abalada torna difícil distinguir a realidade das ilusões. O Guardião avança sem misericórdia, e a última coisa que você vê é sua própria sombra envolvê-lo, apagando sua existência. [Game Over: Morte]
-
-
 

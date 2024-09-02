@@ -4,13 +4,15 @@
 
 Olá, estranhX!
 
-Bem-vindx à Bolha! Já ouviu falar de uma bolha, certo? 
+Bem-vindx à Bolha. Você deve saber que bolhas são frágeis, certo? A maioria das pessoas entende isso até de forma intuitiva. O que talvez não saiba é o verdadeiro peso de manter uma bolha intacta. Cada bolha que você encontrará aqui tem uma vida própria, uma história a ser protegida.
 
-Claro que sim! Desculpe menosprezar sua inteligência. Para compensar, não vou entrar em detalhes sobre como as bolhas funcionam. Você já sabe que elas estouram se você... oops, desculpe, você já sabe disso também.
+A bolha não é apenas um objeto—ela é tudo o que você tem. Ela é seu mundo, sua proteção. Mas, como já mencionado, ela é extremamente frágil. Cada bolha tem um limite de três furos. Se você falhar em protegê-la, a jornada será reiniciada.
 
-Mas talvez você não saiba que essas bolhas estouram após três furos. Faça de tudo para que isso não aconteça. Não importa o que aconteça na sua jornada, não permita que a bolha estoure, ou você terá que começar tudo de novo.
+Lembre-se: suas escolhas não se tratam apenas de um jogo ou sobre você; elas envolvem universos inteiros que dependem de suas ações. A cada passo e a cada decisão, você tem o poder de preservar ou destruir.
 
-[Vamos lá!](#)
+Agora, pense bem: você está pronto para assumir essa responsabilidade? Se preferir ignorar as consequências, talvez seja melhor clicar em #voltar e reconsiderar sua decisão. Este não é o tipo de jogo que se joga levianamente. Mas se você é corajoso o suficiente para enfrentar o peso de suas decisões e proteger o que é precioso, clique em #viver e prove que é digno dessa responsabilidade.
+
+[Viver!](#)
 
 ---
 
