@@ -2,7 +2,7 @@
 
 ## Transição para o Canto II
 
-Com o artefato em mãos, a floresta ao seu redor começa a se transformar. As sombras se alongam, e o ar esfria drasticamente. Você sente a presença de uma entidade antiga, como se algo despertasse com a energia do artefato. O artefato começa a brilhar intensamente, quase como um farol que atraiu algo mortal.
+Com o artefato em mãos, a floresta ao seu redor começa a se transformar. As sombras se alongam, e o ar esfria drasticamente. Você sente a presença de uma entidade antiga, como se algo despertasse com a energia do artefato. O artefato começa a brilhar intensamente, e um som sinistro de rasgo e quebra ecoa na floresta. Algo antigo e maligno está prestes a ser libertado.
 
 De repente, você ouve uma voz em sua mente, fria e antiga, dizendo: "O artefato abriu os portões para um novo reino. Você deve continuar... ou ser consumido pelo que despertou."
 

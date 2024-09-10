@@ -58,7 +58,6 @@ O ar ao seu redor começa a vibrar com uma energia estranha, e a pressão aument
 ---   
 
 ## Combate com o Guardião Final
-
 ### Transição para o Desafio 3
 
 Você se encontra frente a frente com o **Guardião**, uma versão distorcida e aterrorizante de si mesmo, criada a partir de dados corrompidos e energia temporal. Cada movimento que você faz é refletido por ele, mas com uma força ainda maior. Cada golpe que você desfere contra ele reverbera de volta para você, causando dor e cansaço.

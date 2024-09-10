@@ -1,7 +1,6 @@
 # Comentários Inesperados do Destino
-
-Ah, Fantasia! Claro, por que não? 
-
+## Ah, Fantasia! Claro, por que não? 
+---
 Quem não adoraria um mundo onde os trolls habitam, dragões alçam voos majestosos, incubus e sucubus se esgueiram em sonhos, vampiros são tanto românticos quanto mortais, fadas são travessas e, de alguma forma, sempre há uma missão "importantíssima" esperando por você? 
 
 Mas, cuidado! 
