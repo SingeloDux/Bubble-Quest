@@ -10,9 +10,9 @@ As lembranças e as verdades aqui podem ser... dolorosas.
 [Iniciar a jornada]
 
 ---
-## Ato I - Lembranças da Escola: Um Passado que Assombra
+## Ato I - Um Passado que Assombra
 
-### Entrada nas Lembranças
+### A cidade fantasmagórica
 
 Você se encontra numa cidade flutuando entre o real e o imaginário. As ruas desertas oscilam entre um silêncio opressor e explosões fantasmagóricas de lembranças que desaparecem tão rápido quanto surgem. A nostalgia e a pressão de um ambiente competitivo se entrelaçam, criando uma atmosfera de tensão crescente.
 
@@ -26,7 +26,7 @@ Diante de você, um imponente edifício de escritórios. Não muito distante, o 
    - **Resultado**: Você segue pela trilha da escola, guiado pelo som das risadas. No meio do caminho, uma adolescente de uniforme secundário, aparentemente à sua espera, sai do encosto de uma parede e se aproxima. "Obrigada por vir," ela diz, olhando em seus olhos. "Você não sabe por que está aqui, não é? Entendo... não foi como deveria ter sido." Enquanto caminham, ela promete ajudar, mas suas palavras são vagas e enigmáticas. Mesmo assim, você a segue, na esperança de que tudo fique mais claro.
 
 2. **Trilha dos escritórios**
-   - **Resultado**: Curioso para descobrir o que está acontecendo, você entra no prédio gigantesco à sua frente. À medida que se aproxima, através dos vidros enormes, silhuetas de pessoas e equipamentos vão se formando. Assim que você se aproxima da porta, ela se abre. Ao longe, um grupo de pessoas o observa com expressões de espanto, como se você fosse uma surpresa inesperada. Os sons de cliques e teclas que preenchiam o ambiente agora se silenciaram. Uma figura na recepção diz: "Isso é inesperado. Achamos que tivéssemos fracassado. Mas você está aqui." Ela pede que a siga, e uma sensação de urgência e mistério paira no ar, mantendo você imerso em uma névoa de enigmas.
+   - **Resultado**: Curioso para descobrir o que está acontecendo, você se dirige em direção ao prédio gigantesco à sua frente. À medida que se aproxima, através dos vidros enormes, silhuetas de pessoas e equipamentos vão se formando. Assim que você se aproxima da porta, ela se abre. Ao longe, um grupo de pessoas o observa com expressões de espanto, como se você fosse uma surpresa inesperada. Os sons de cliques e teclas que preenchiam o ambiente agora se silenciaram. Uma figura na recepção diz: "Isso é inesperado. Achamos que tivéssemos fracassado. Mas você está aqui." Ela pede que a siga, e uma sensação de urgência e mistério paira no ar, mantendo você imerso em uma névoa de enigmas.
 ---
 
 ## Trilha da escola: Adolescetne - Desafio Moral
@@ -35,7 +35,7 @@ Você continua seguindo a garota. À medida que avançam, você vê ecos de lemb
 
 Ela suspira e conta que aquele era seu namorado, mas não se lembra bem do que aconteceu. Depois de um tempo, ele começou a sair com uma amiga dela. À medida que fala, sua irritação cresce, e você vê espectros de lembranças surgindo e desaparecendo. "Mas assim que acharmos o artefato, tudo vai ficar bem!" ela diz, mais calma.
 
-Então ela pergunta: "Já amou tanto alguém que achou que ia morrer se a pessoa te deixasse, e mesmo assim, a pessoa te deixou? É retórico, não responda. Só precisava dizer isso em voz alta. Tudo bem?"
+Então ela pergunta: "Você já amou tanto alguém que achou que ia morrer se a pessoa te deixasse, e mesmo assim, a pessoa te deixou?" Ela faz uma pausa, como se esperasse uma resposta, mas logo continua: "É retórico, não precisa responder. Só precisava dizer isso em voz alta. Tudo bem?"
 
 ### Escolha:
 
@@ -52,7 +52,8 @@ Então ela pergunta: "Já amou tanto alguém que achou que ia morrer se a pessoa
 Quando chegam à escola, a garota o guia pelos corredores cheios de pessoas e espectros, alguns interagindo com suas duplicatas, outros parecendo presos em loops de frustração. De repente, um grupo de adolescentes grita: "Um adulto!" Por um momento, você pensa que é sobre você,  mas a garota, agora desesperada, sussurra: "Não confie em nada que o professor disser. Eles fingem se importar, mas na verdade só querem nos ver fracassar."
 
 O professor surge e todos os adolescentes recuam, como se ele emanasse uma aura repelente. Ele pede para que você o acompanhe, para um lugar mais tranquilo...levando-o até o telhado. 
-
+---
+[Subir]
 Conforme sobem, você vê ecos de lembranças de bullying cada vez mais intensos surgirem e desaparecerem. Ele murmura: "A vida é estranha, não acha? Cheia de batalhas que exigem ação, mas, às vezes, é o momento certo que importa. Cada escolha que fazemos... parece pequena, mas pode mudar tudo. Você veio para salvar este mundo, mas a pergunta é: você é adulto o suficiente para isso?"
 
 No terraço, você se dirige ao parapeito como se fosse apreciar a vista. Mas ao olhar para trás, os ecos de bullying ficam mais persistentes, como se o cercassem. O professor encara você e pergunta: "O que você faria se, diariamente, fosse bombardeado com situações assim?"
@@ -60,7 +61,7 @@ No terraço, você se dirige ao parapeito como se fosse apreciar a vista. Mas ao
 
 ### Escolha:
 
-1. **Você só pode ser um doente!**
+1. **Confrontá-lo**
    - **Resultado**: Você não consegue segurar sua indignação e explode de raiva: "Que tipo de pessoa doentia é você?" Com uma expressão desapontada, o professor corre em sua direção e o empurra. Você cai em direção ao abismo, atravessando ecos de memórias, e quando finalmente chega ao chão, sua bolha estoura e você está morto! [Game Over: Perdeu uma vida.]
 
 2. **Esse é um teste?**
@@ -72,15 +73,16 @@ No terraço, você se dirige ao parapeito como se fosse apreciar a vista. Mas ao
 
 Seguindo a figura, você passa por corredores de pessoas com olhares vazios. De tempos em tempos, fragmentos de memórias espectrais surgem, sumindo logo depois. "Você deve ter muitas perguntas," ele comenta. "Mas sua jornada só está começando e, até o final, você entenderá tudo. E convenhamos, você não teria vindo se houvesse algo mais importante em sua vida, certo?" Ele faz uma pausa, suspira e começa a falar de seu passado. Conta como construiu a empresa e os sacrifícios que fez, contratos que corromperam vidas. "Mesmo assim, nada nunca foi o suficiente."
 
-Ele olha para cima, como se quisesse impedir que lágrimas caíssem. E entao, se perde em lembranças. "Você me lembra muito um dos meus amigos. Eu tinha um amigo e uma amiga. Nos conhecemos no primário." Nesse instante, ecos espectrais surgem, como uma exibição holográfica do que ele fala. Ele fala da proximidade que tinham, das sessões de jogos e leituras que inventavam para se divertir juntos. Mas quando começa a falar das coisas urgentes que os distanciaram, os ecos param. Ele sorri triste. "Desculpe por me abrir assim, só queria lhe dar um conselho. Mas que seja, uma história foi contada. Quer ouvir a moral da história?"
+Ele olha para cima, como se quisesse impedir que lágrimas caíssem. E entao, se perde em lembranças. "Você me lembra muito um dos meus amigos. Eu tinha um amigo e uma amiga. Nos conhecemos no primário." Nesse instante, ecos espectrais surgem, como uma exibição holográfica do que ele fala. Ele fala da proximidade que tinham, das convenções, das sessões de jogos e leituras que inventavam para se divertir juntos. Mas quando começa a falar das coisas urgentes que os distanciaram, os ecos param. Ele sorri triste. "Desculpe por me abrir assim, só queria lhe dar um conselho. Mas que seja, uma história foi contada. Quer ouvir a moral da história?"
 
 ### Escolha:
 
 1. **Para onde vamos?**
-   - **Resultado**: Você aproveita a pausa e desvia a conversa, perguntando diretamente para onde ele está levando você. Sua pergunta quebra o clima emocional, e a figura suspira desanimada. "Tudo bem," ele responde com frieza. "Estamos quase no artefato. Quanto à moral, só ia dizer: não sacrifique tudo por algo incerto. Mas parece que você já está mais preocupado com o destino do que com o caminho." Você sente que perdeu uma chance de entender algo mais profundo.
+   - **Resultado**: Você aproveita a pausa e desvia a conversa, perguntando diretamente para onde ele está levando você. Sua pergunta quebra o clima emocional, e a figura suspira desanimada. "Tudo bem," ele responde com frieza. "Estamos quase no artefato. Quanto à moral, só ia dizer: não sacrifique tudo por algo incerto. Mas parece que você já está mais preocupado com o destino do que com o caminho." 
+Nesse instante, um fragmento de memória se materializa entre vocês. Ao tocá-lo, ele se transforma em um amuleto de lágrimas, que você guarda no bolso, esperando que seja útil em um momento de grande necessidade. Enquanto continua, você sente que perdeu a chance de compreender algo mais profundo. [Ganhou um Amuleto das Lágrimas]
 
 2. **Claro, qual é a moral da história?**
-   - **Resultado**: Pensativo e com um nó na garganta, você faz um gesto de concordância, incentivando-o a continuar. A figura sorri levemente e diz: "Eu sacrifiquei tudo que poderia ganhar na vida por um novo mundo. Onde estive até agora, para onde estava tentando ir... Não deixe que a urgência e o desejo por algo abstrato destruam suas relações. Mantenha um equilíbrio. Embora possa parecer reconfortante, não é legal ficar sozinho." Ele olha para você e pergunta se gostaria de ouvir sobre sua esposa, cachorros e gatos. Mas antes que você responda, ele diz que é uma piada. Você sorri, e então um fragmento de memória se materializa. Ao tocá-lo, ele se transforma em um amuleto de lágrimas que você guarda no bolso, esperando que possa ser útil em um momento de grande necessidade. [Ganhou um Amuleto das Lágrimas]
+   - **Resultado**: Pensativo e com um nó na garganta, você faz um gesto de concordância, incentivando-o a continuar. A figura sorri levemente e diz: "Eu sacrifiquei tudo que poderia ganhar em vida, por um sonho, um mundo novo. Onde estive até agora... e para onde achava que estava indo... Nada disso valeu as perdas. Não deixe que a urgência de alcançar algo intangível destrua o que é real. Mantenha um equilíbrio. Pode parecer reconfortante, mas, no final, não é legal ficar sozinho." Ele faz uma pausa, te observa com atenção e, de repente, pergunta com um sorriso travesso: "Você quer ouvir sobre minha esposa... meus cachorros... e meus gatos?"Antes que você possa responder, ele ri e diz: "Brincadeira, não se preocupe." Você solta um sorriso, e então ele te encara de forma séria e suave: "Você é uma boa pessoa. Se precisar de ajuda enquanto estiver aqui... não hesite em pedir. Nem todos têm que seguir esse caminho sozinhos." [Ganhou um Aliado]
 
 ---
 
@@ -104,7 +106,7 @@ A figura permanece em silêncio, aguardando sua escolha.
 ---
 
 ## Artefato de poder - Fim da fase
-## Artefato de poder
+## O artefato de poder
 
 Você pega o artefato com cuidado, sentindo uma conexão profunda com o objeto, como se ele fizesse parte de você desde sempre. 
 
