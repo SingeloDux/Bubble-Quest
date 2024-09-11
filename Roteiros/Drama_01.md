@@ -62,7 +62,7 @@ No terraço, você se dirige ao parapeito como se fosse apreciar a vista. Mas ao
 ### Escolha:
 
 1. **Confrontá-lo**
-   - **Resultado**: Você não consegue segurar sua indignação e explode de raiva: "Que tipo de pessoa doentia é você?" Com uma expressão desapontada, o professor corre em sua direção e o empurra. Você cai em direção ao abismo, atravessando ecos de memórias, e quando finalmente chega ao chão, sua bolha estoura e você está morto! [Game Over: Perdeu uma vida.]
+   - **Resultado**: Você não consegue segurar sua indignação e explode de raiva: "Que tipo de pessoa doentia é você?" Com uma expressão desapontada, o professor dirige-se em sua direção e o empurra. Você cai em direção ao abismo, atravessando ecos de memórias, e quando finalmente chega ao chão, sua bolha estoura e você está morto! [Game Over: Perdeu uma vida.]
 
 2. **Esse é um teste?**
    - **Resultado**: Ciente de que aquela cena era um teste, mesmo com vontade de sair correndo por causa da dor em seu peito, você decide manter a calma e observar. Afinal, uma mente firme não age sem entender todas as nuances. Então pergunta: "Isso é um teste, não é? O que eu preciso fazer?" O professor não responde, apenas aponta para um objeto flutuando entre vocês e diz: "Pegue-o, este artefato é o núcleo capaz de mudar o destino de tudo por aqui."
@@ -88,19 +88,22 @@ Nesse instante, um fragmento de memória se materializa entre vocês. Ao tocá-l
 
 ## Trilha dos Escritórios - Desafio Mortal: O Contrato
 
-Enquanto vocês continuam a caminhada, a figura explica que os ecos que você tem visto são fragmentos de suas lembranças, embora ele não tenha certeza disso, pois nada parece fazer sentido naquele lugar. Ele também diz que os efeitos são piores em crianças e adolescentes, enquanto os adultos têm um pouco de controle sobre a situação. Então, vocês finalmente alcançam uma sala trancada, bem no coração do edifício. A figura hesita antes de abrir a porta e se volta para você: "Este é o coração dessa empresa. Caso não tenha percebido, somos uma multinacional, a maior da indústria de desenvolvimento de jogos." Ao abrir a porta, revela uma sala de reuniões principal, luxuosa e moderna, repleta de tecnologia de ponta.
+Enquanto continuam caminhando, a figura comenta que os ecos que você está vendo parecem ser fragmentos de suas lembranças. Ele admite, porém, que não tem certeza, pois nada naquele lugar faz muito sentido. Ele acrescenta que esses efeitos tendem a ser mais intensos em crianças e adolescentes, enquanto os adultos conseguem manter um pouco mais de controle sobre a situação. Então, vocês finalmente alcançam uma sala trancada, bem no coração do edifício. A figura hesita antes de abrir a porta e se volta para você: "Este é o coração dessa empresa. Caso não tenha percebido, somos uma multinacional, a maior da indústria de desenvolvimento de jogos." Ao abrir a porta, revela uma sala de reuniões luxuosa e moderna, equipada com tecnologia de ponta.
+---
+[[Entrar na sala]]
+"Sabe," ele diz, como se quisesse exibir seu sucesso, "eu comecei como um simples designer de personagens, mas, ao longo do caminho, fiz amigos — programadores, roteiristas, artistas conceituais, designers de som — todos essenciais para construir o que você vê aqui. Juntos, transformamos ideias em realidade. Agora que você conhece minha história, sabe que sou um homem de negócios. Não posso simplesmente entregar o artefato." 
 
-"Eu comecei do zero, meu foco era design de personagens. Fiz amigos na jornada e cheguei a isso. Agora que você sabe de tudo, inclusive como criei a empresa, sabe que sou um homem de negócios acima de tudo. Portanto, não posso simplesmente entregar o artefato." Ele se senta em uma das cadeiras e faz sinal para que você se sente, deslizando um papel e uma caneta em sua direção. "Este contrato tem como objetivo garantir o sucesso da nossa missão. Ao assiná-lo, você aceita abdicar de todas as suas escolhas futuras em nome de um bem maior: o sucesso absoluto da nossa missão. Claro, além do título de herói, você receberá recompensas adequadas assim que nos ajudar com nosso problema." Você lê o contrato, mas não para de questionar se vale a pena sacrificar sua liberdade de escolha por seja lá o que for esse artefato. 
+Ele se senta em uma das cadeiras e faz sinal para que você se sente, deslizando um papel e uma caneta em sua direção. "Este contrato tem como objetivo garantir o sucesso da nossa missão. Ao assiná-lo, você aceita abdicar de todas as suas escolhas futuras em nome de um bem maior: o sucesso absoluto da nossa missão. Claro, além do título de herói, você receberá recompensas adequadas assim que nos ajudar com nosso problema." Você lê o contrato, mas não para de questionar se vale a pena sacrificar sua liberdade de escolha por seja lá o que for esse artefato. 
 
 A figura permanece em silêncio, aguardando sua escolha.
 
 ### Escolha:
 
 1. **Assinar o contrato**
-   - **Resultado**: Você pensa: "Isso parece a coisa certa a fazer." Decide assinar o contrato. Assim que sua assinatura é registrada, sente a cadeira prender você. Nesse instante, percebe que algo está errado. Olha para a figura à sua frente e vê que ele a observa com uma expressão vazia enquanto clica em um controle que direciona sua cadeira para a janela. Ecos de suas memórias mais belas e arrependimentos preenchem a sala. Tudo o que você consegue pensar é: artefato, bem maior, título de herói, recompensas adequadas. Então você percebe que o sacrifício era tolo. Você cai em direção ao abismo, atravessando ecos de memórias, e quando finalmente chega ao chão, sua bolha estoura e você está morto! [Game Over: Perdeu uma vida.]
+   - **Resultado**: Você reflete por um momento e pensa: //'Parece o certo a se fazer.' //Com a decisão tomada, você assina o contrato. Assim que sua assinatura é registrada, sente a cadeira prender você. Nesse instante, percebe que algo está errado. Olha para a figura à sua frente e vê que ele a observa com uma expressão vazia enquanto clica em um controle que direciona sua cadeira para a janela. Ecos de suas memórias mais belas e arrependimentos preenchem a sala. Tudo o que você consegue pensar é: artefato, bem maior, título de herói, recompensas adequadas. Então você percebe que o sacrifício era tolo. Você cai em direção ao abismo, atravessando ecos de memórias, e quando finalmente chega ao chão, sua bolha estoura e você está morto! [Game Over: Perdeu uma vida.]
 
 2. **Recusar o contrato**
-   - **Resultado**: Você afasta o contrato, mostrando que entendeu a moral da história. A história de como ele construiu a empresa, como corrompeu vidas pelo seu sonho, tudo que ele sacrificou. Então você diz: "Artefato, bem maior, título de herói, recompensas adequadas. Não estou aqui por nenhuma dessas coisas. Por que eu assinaria o contrato por elas?" O homem observa você com um olhar de aprovação. Pega o contrato de volta, rasga-o, e então faz um amontoado de papel e estende a mão em sua direção. Você olha e percebe que o amontoado de papel se transforma em algo brilhante. Ele diz: "Pegue-o, este é o artefato, o núcleo capaz de mudar o destino de tudo por aqui."
+   - **Resultado**: Você afasta o contrato, mostrando que entendeu a moral da história. A história de como ele construiu a empresa, dos contratos que corromperam vidas, tudo que ele sacrificou. Então você diz: "Artefato, bem maior, título de herói, recompensas adequadas. Não estou aqui por nenhuma dessas coisas. Por que eu assinaria o contrato por elas?" O homem observa você com um olhar de aprovação. Pega o contrato de volta, rasga-o, e então faz um amontoado de papel e estende a mão em sua direção. Você olha e percebe que o amontoado de papel se transforma em algo brilhante. Ele diz: "Pegue-o, este é o artefato, o núcleo capaz de mudar o destino de tudo por aqui."
 
 [Pegar o artefato]
 ---
@@ -123,21 +126,24 @@ Diante de tanto poder, você se sente pequeno e insignificante, mas agora, você
 # Comentários Inesperados do Destino
 ## Ah, lições de vida no telhado!
 ---
-Quem diria que uma simples pergunta filosófica poderia te derrubar... literalmente? Parece que a "adultice" não é apenas sobre idade, hein?
+Quem diria que uma simples pergunta filosófica poderia te derrubar... literalmente? 
 
-Talvez na próxima vez, você tente segurar a língua e entender a situação antes de explodir. Afinal, não é todo dia que um professor te dá um empurrão educacional direto para o abismo!
+Parece que a "adultice" não é apenas sobre idade, hein?
 
-Mas relaxe, na próxima vida, quem sabe você tenha uma chance de passar no teste? Respire fundo, tome coragem—você consegue:
+Enfim, não é todo dia que um professor te dá um empurrão educacional direto para o abismo! Mas relaxe, na próxima vida, quem sabe você tenha uma chance de passar no teste? 
+
 ---
 
 # Escritórios
 # Comentários Inesperados do Destino
-## Assinar contratos cegamente nunca é uma boa ideia!
+## Ah, o bom e velho truque dos negócios: contratos, promessas... e um abismo logo à frente!
 ---
-Ah, o bom e velho truque dos negócios: contratos, promessas de sucesso e um abismo logo à frente! Quem diria que o caminho para o "sucesso" seria tão curto... e mortal?
+Quem diria que o caminho para o "sucesso" seria tão curto... e tão mortal?
 
-Talvez na próxima vida, você evite a tentação de sacrificar tudo por um pedaço de papel, hein? 
+Lembra daquele meme? Não são só ideias fazem pessoas voarem pela janela, as ações também!
 
-Vamos lá, não perca o foco—você consegue:
+Talvez, na próxima vida, você evite a tentação de sacrificar tudo por um pedaço de papel, hein?
 ---
+Hora de mudar de bolha, essa não serve mais. Respire fundo, tome coragem—você consegue:
+
 [[Estourar a bolha! ->Canto II]]

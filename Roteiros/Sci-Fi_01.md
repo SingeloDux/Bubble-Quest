@@ -50,7 +50,7 @@ De repente, uma figura cibernética emerge das sombras. Com um movimento ágil, 
 
 "Vejo que você é novo por aqui. Não pode confiar nessas coisas. Vamos, vou levá-lo a um lugar seguro."
 
-Desconfiado, você o segue até um beco estreito e suspeito. Ele para e aponta para uma passagem, dizendo: "Siga por esse túnel. Mais adiante, encontrará o edifício da Tuckersoft. O pessoal lá vai ajudá-lo com o que for necessário."
+Desconfiado, você o segue até um beco estreito e sombrio. Ele para e aponta para uma passagem escura, dizendo: "Siga por esse túnel. Mais adiante, encontrará o edifício da Tuckersoft. O pessoal lá vai ajudá-lo com o que for necessário."
 
 ### Escolha:
 
