@@ -9,7 +9,6 @@ Você sente que está mais perto do que imagina... e a cada instante, a sensaç�
 No horizonte, a Fortaleza do Tempo se ergue, imponente e metálica, desafiando as leis da física e da lógica. A verdadeira batalha está à sua frente, uma batalha que definirá o destino deste mundo e do tempo em si.
 
 O silêncio antes da tempestade se instala, e você sabe que não há retorno. Todas as suas decisões culminarão em um confronto contra a ameaça oculta, o senhor do tempo.
-[Prelúdio - A Ameaça Oculta]
 ---
 [Iniciar o Setor III]
 
@@ -60,9 +59,11 @@ O ar ao seu redor começa a vibrar com uma energia estranha, e a pressão aument
 ## Combate com o Guardião Final
 ### Transição para o Desafio 3
 
-Você se encontra frente a frente com o **Guardião**, uma versão distorcida e aterrorizante de si mesmo, criada a partir de dados corrompidos e energia temporal. Cada movimento que você faz é refletido por ele, mas com uma força ainda maior. Cada golpe que você desfere contra ele reverbera de volta para você, causando dor e cansaço.
+Você se encontra cara a cara com o **Guardião**, uma versão distorcida e aterrorizante de si mesmo. 
 
-Logo, a verdade se revela: este Guardião não é apenas um adversário; ele é uma extensão sua. Cada golpe que você desfere nele fere a si mesmo. Para derrotá-lo, você precisará tomar uma decisão ousada — a maior de todas.
+Cada movimento que você faz é refletido por ele, mas com uma força ainda maior. Cada golpe que desfere volta para você, intensificando a dor e o cansaço. Logo, a verdade se revela: o Guardião não é apenas um adversário, mas uma extensão sua.
+
+Para derrotá-lo, será preciso tomar a decisão mais ousada de todas.
 
 ### Escolha 3: Combate com o Guardião Final
 

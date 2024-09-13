@@ -9,15 +9,12 @@ Você sente que está mais perto do que imagina... e a sensação de que o tempo
 No horizonte, a Fortaleza do Tempo se ergue, imponente, desafiando as leis da física e da lógica. A verdadeira batalha está à sua frente, uma que definirá o destino deste mundo — e do tempo em si.
 
 O silêncio antes da tempestade se instala, e você sabe que não há retorno. Todas as suas decisões culminarão em um confronto final contra a ameaça oculta: o senhor do tempo.
-
-[Prelúdio - O Confronto Final]
-
 ---
 [Iniciar o Ato III]
 
 ## Desafio 1: Confronto com as Memórias Corrompidas
 
-A fortaleza à sua frente é um lugar onde o tempo e a realidade colapsam.  Assim que você atravessa os portões, uma pressão esmagadora recai sobre você. As paredes ecoam com risos distorcidos, e o Artefato que você carregava é arrancado de suas mãos por adolescentes e espectros das suas memórias corrompidas.
+A fortaleza à sua frente é um lugar onde o tempo e a realidade colapsam.  Assim que você atravessa os portões, uma pressão esmagadora recai sobre você. As paredes ecoam com risos distorcidos, e o Artefato que você carregava é arrancado de suas mãos por espectros de memórias corrompidas de adolescentes.
 
 Eles entregam o artefato a uma sombra no centro do salão, um neurocientista corrompido, que começa a manipulá-lo, iniciando um ritual de libertação do Chronomancer. Os espectros formam um círculo ao redor do neurocientista, criando uma barreira energética. O tempo está se esgotando, e o destino do universo depende de suas próximas ações. Falhar não é uma opção.
 
@@ -27,7 +24,7 @@ Eles entregam o artefato a uma sombra no centro do salão, um neurocientista cor
    - **Resultado**: Você segura a Esfera da Reflexão, que responde ao seu desespero com um brilho azulado intenso. À medida que avança, a luz se intensifica, consumindo os espectros de memórias traumáticas das adolescentes e desintegrando-os em partículas. Eles se dissipam, e você avança, sentindo o poder da vitória em suas mãos.
 
 2. **Usar um item**
-   - **Resultado - Amuleto das Lágrimas**: O amuleto das lágrimas emite uma luz fria e melancólica, sobrecarregando os espectros com um peso psicológico devastador. Eles recuam, mas logo novas memórias furiosas aparecem, ameaçando esmagá-lo. Você avança, mas o caminho se torna cada vez mais perigoso. [Dano dos espectros -0.5]
+   - **Resultado - Amuleto das Lágrimas**: Você segura o  amuleto das lágrimas que emite uma luz fria e melancólica, sobrecarregando os espectros com um peso psicológico devastador. Eles recuam, mas logo novas memórias furiosas aparecem, ameaçando esmagá-lo. Você avança, mas o caminho se torna cada vez mais perigoso. [Dano dos espectros -0.5]
 
    - **Resultado - Fragmento de Memória**: Ao usar o Fragmento de Memória oferecido pela adolescente, uma onda de clareza mental explode, desestabilizando os espectros enfurecidos. Confusas, as memórias perdem a coesão e se dispersam, abrindo uma passagem para você avançar sem hesitação.
 
@@ -50,9 +47,9 @@ A pressão aumenta a cada momento. O ritual está quase completo, e você sabe q
    - **Resultado**: Você decide usar a Esfera da Reflexão, mas a voz do Espírito Guardião ecoa em sua mente: "O poder da esfera é perigoso, use-a com sabedoria." Você a guarda e tenta confrontá-lo fisicamente. Mas cada golpe que desfere enfraquece sua própria mente. A dor emocional torna o combate insuportável, e ele invoca um guardiao — uma versão corrompida de você, pronta para atacá-lo com suas próprias inseguranças. O Guardiao te ataca instantaneamente, arremessando você para longe. [Dano -0.5 HP]
 
 2. **Usar um item**
-   - **Resultado - Ampulheta Fragmentada**: Você usa a Ampulheta Fragmentada, desacelerando o tempo ao redor do neurocientista. Embora suas ações se tornem lentas, ele ainda consegue invocar o Guardião Corrompido, que se move devagar, mas é letal.
+   - **Resultado - Ampulheta Fragmentada**: Você usa a Ampulheta Fragmentada, desacelerando o tempo ao redor do neurocientista. Embora suas ações se tornem lentas, ele ainda consegue invocar o Guardião, uma versão distorcida e poderosa de você mesmo, que se move devagar, mas é letal.
 
-   - **Resultado - Cápsulas da Realidade**: Ao tomar as cápsulas, sua clareza mental é restaurada, e você ganha resistência temporária. Revigorado, avança, mas o neurocientista enfurecido, invoca o **Guardião Corrompido**. Embora sinta-se preparado, as cápsulas começam a afetar sua percepção do que é real e ilusório. [Dano evitado, jogador ganha +0.5 de HP, mas perde -1 de HP na próxima fase em qualquer escolha]
+   - **Resultado - Cápsulas da Realidade**: Ao tomar as cápsulas, sua clareza mental é restaurada, e você ganha resistência temporária. Revigorado, avança, mas o neurocientista enfurecido, invoca o **Guardião**, uma versão distorcida e poderosa de você mesmo. Embora sinta-se preparado, as cápsulas começam a afetar sua percepção do que é real e ilusório. [Dano evitado, jogador ganha +0.5 de HP, mas perde -1 de HP na próxima fase em qualquer escolha]
 
 3. **Destruir o artefato**
    - **Resultado - Entender tudo**: Você tenta destruir o Artefato, mas hesita quando o neurocientista sussurra: "Às vezes, o preço da paz mental é perder uma parte de si." Visões distorcidas da sessão de terapia retornam, confundindo seus sentidos. Suas ações tornam-se imprecisas, e o neurocientista aproveita o momento para invocar o Guardião, uma versão distorcida e poderosa de você mesmo, que te ataca instantaneamente, arremessando você para longe. [Dano de -0.5 e invocação do Guardião]
@@ -65,9 +62,11 @@ A pressão aumenta a cada momento. O ritual está quase completo, e você sabe q
 ## Combate com o Guardião Final
 ### Transição para o Desafio 3
 
-Você se encontra frente a frente com o **Guardião**, uma versão distorcida e aterrorizante de si mesmo, criada a partir de suas memorias distoridas e energia temporal. Cada movimento que você faz é refletido por ele, mas com uma força ainda maior. Cada golpe que você desfere contra ele parece reverberar de volta, causando dor e cansaço.
+Você se encontra cara a cara com o **Guardião**, uma versão distorcida e aterrorizante de si mesmo. 
 
-Logo, a verdade se revela:  este Guardião não é apenas um adversário; é uma extensão sua. Cada golpe contra ele é um golpe contra si mesmo. Para derrotá-lo, você precisará tomar uma decisão ousada — a maior de todas.
+Cada movimento que você faz é refletido por ele, mas com uma força ainda maior. Cada golpe que desfere volta para você, intensificando a dor e o cansaço. Logo, a verdade se revela: o Guardião não é apenas um adversário, mas uma extensão sua.
+
+Para derrotá-lo, será preciso tomar a decisão mais ousada de todas.
 
 ### Escolha 3: Combate com o Guardião Final
 

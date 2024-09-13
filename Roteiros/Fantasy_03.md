@@ -1,5 +1,4 @@
 # Canto III - A Fortaleza do Tempo
-
 ## Transição para o Canto III
 
 Com cada escolha que você faz, o ambiente ao seu redor se distorce, como se o próprio tecido do tempo estivesse se desfazendo.
@@ -9,7 +8,6 @@ A cada passo, você sente a pressão crescente, como se o tempo estivesse preste
 No horizonte, a Fortaleza do Tempo se ergue, imponente e sombria, uma prisão que desafia as leis da realidade. A verdadeira batalha está por vir, uma batalha que definirá o destino não apenas deste mundo, mas do tempo em si.
 
 O silêncio antes da tempestade se instala, e você sabe que não há retorno. O momento final está à sua frente, onde todas as suas decisões culminarão em um confronto contra a ameaça oculta, o senhor do tempo.
-[Prelúdio - A Ameaça Oculta] 
 ---
 [Iniciar o Canto III]
 

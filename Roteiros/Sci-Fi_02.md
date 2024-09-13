@@ -134,24 +134,14 @@ A figura recua, como se estivesse saindo da zona do perigo e , deixando você fr
 
 4. **Chave**
    - **Resultado**:"Chave," você arrisca. A figura misteriosa inclina a cabeça com desaprovação. "A chave pode abrir portas, mas não é a essência que flui entre os circuitos." Imediatamente, as luzes da sala começam a piscar em um padrão alarmante. O ambiente ao seu redor começa a se distorcer e se comprimir, como se estivesse sendo corrompido. As paredes de metal se torcem e um campo de forças elétricas começa a aparecer. O espaço se encolhe, a escuridão o engole e sua bolha estoura... [Game Over: Perdeu uma vida.]
-
+---
 ## Comentários Inesperados do Destino 2
 ## Os dados são impiedosos com os ignorantes.
 
 A vida é um emaranhado de escolhas digitais. Com um erro, sua bolha estoura e você perde uma vida. Mas não se preocupe, cada falha é apenas uma chance de recomeçar... em outro fragmento do código.
 
 Vamos tirar você daqui antes que o sistema decida reiniciar.Não pense muito, você precisa apenas de um clique:
-
-## Vencer a batalha, não a guerra!
-
-(text-style:"blurrier","buoy")[Voce perdeu muito sangue! 
-]
-Na próxima vez, tente manter os olhos abertos e os ouvidos atentos. 
-
-Ou talvez você prefira continuar colidindo com bugs e falhas.
-
 ---
-
 [Estourar a bolha!]
 
 

@@ -98,20 +98,13 @@ A figura recua, deixando o ambiente em silêncio, exceto pelos sons distantes de
 
 4. **Espada**
    - **Resultado**: "Espada", você declara, com a voz firme. A figura sombria inclina a cabeça, com um tom de desaprovação. "A espada corta a carne, mas não a alma. Somente a verdade pode abrir este caminho", afirma ela, transformando-se em um morcego e desaparecendo, deixando para trás um brilho luminescente. A lápide se eleva, revelando uma muralha de aço, impenetrável e fria. A muralha se fecha atrás dela e a fenda se fecha. Sua bolha estoura e você morre! [Game Over: Perdeu uma vida.]
-
+---
 # Comentários Inesperados do Destino 2
 ## A escuridão é impiedosa com os ignorantes.
 
 Nada como uma bolha estourada para lembrar que nem tudo é tão fácil quanto parece. Mas não se preocupe, todo erro é uma chance de aprender... em outro lugar. 
 
 Vamos tirar você daqui antes que a gravidade tenha mais alguma palavra a dizer. Não pense muito, você consegue:
-
-
-## Vencer a batalha, não a guerra!
-
-(text-style:"blurrier","buoy")[Voce perdeu muito sangue! 
-]
-Na próxima vez, tente manter os olhos abertos e os ouvidos atentos. 
-
-Ou talvez você prefira continuar tropeçando em armadilhas. 
+---
+[Estourar a bolha!]
 
