@@ -140,7 +140,7 @@ Enfim, não é todo dia que um professor te dá um empurrão educacional direto 
 ---
 Quem diria que o caminho para o "sucesso" seria tão curto... e tão mortal?
 
-Lembra daquele meme? Não são só ideias fazem pessoas voarem pela janela, as ações também!
+Lembra daquele meme? Não são só ideias que fazem pessoas voarem pela janela, as ações também!
 
 Talvez, na próxima vida, você evite a tentação de sacrificar tudo por um pedaço de papel, hein?
 ---
